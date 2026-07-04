@@ -20,7 +20,8 @@ AI-powered emergency coordination platform improving communication between ambul
 An interactive AI-inspired personal portfolio showcasing my journey, projects, and experiences.
 
 ### Stock Price Prediction
-Machine Learning based stock trend analysis using historical market data.
+
+Machine Learning based stock trend analysis using historical market data and LSTM-based prediction models.
 
 
 ##  Tech Stack
@@ -32,7 +33,7 @@ Python | Java | C | SQL | JavaScript
 React.js | HTML | CSS | Tailwind CSS
 
 **AI & Data:**  
-Machine Learning | Pandas | NumPy | Data Visualization
+Machine Learning | LSTM | Pandas | NumPy | Data Visualization
 
 **Tools:**  
 Git | GitHub | VS Code | Supabase
