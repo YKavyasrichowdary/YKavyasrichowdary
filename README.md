@@ -23,7 +23,7 @@ An interactive AI-inspired personal portfolio showcasing my journey, projects, a
 Machine Learning based stock trend analysis using historical market data.
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Languages:**  
 Python | Java | C | SQL | JavaScript
